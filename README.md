@@ -1,0 +1,52 @@
+## Hats
+- Christmas Hat
+  - *by DeRednax, textured by WiserVolcano13*
+  - `/give @s minecraft:carved_pumpkin[minecraft:item_model="bc3:christmas_hat",minecraft:item_name="Christmas Hat"]`
+- PVP club poster
+  - *by Giwdal, model by DeRednax*
+  - `/give @s minecraft:carved_pumpkin[minecraft:item_model="bc3:pvp_club_poster",minecraft:item_name="PVP Club Poster"]`
+
+## Items
+- Emerald Biotic
+  - *by DeRednax*
+  - `/give @s minecraft:emerald[minecraft:item_model="bc3:emerald_coin",minecraft:item_name="Emerald Biotic"]`
+- Diamond Biotic
+  - *by DeRednax*
+  - `/give @s minecraft:diamond[minecraft:item_model="bc3:diamond_coin",minecraft:item_name="Diamond Biotic"]`
+- Netherite Biotic
+  - *by DeRednax*
+  - `/give @s minecraft:netherite_ingot[minecraft:item_model="bc3:netherite_coin",minecraft:item_name="Netherite Biotic"]`
+- Emerald Bioziz
+  - *by DeRednax*
+  - `/give @s minecraft:emerald_block[minecraft:item_model="bc3:emerald_coin_large",minecraft:item_name="Emerald Bioziz"]`
+- Diamond Bioziz
+  - *by DeRednax*
+  - `/give @s minecraft:diamond_block[minecraft:item_model="bc3:diamond_coin_large",minecraft:item_name="Diamond Bioziz"]`
+- Netherite Bioziz
+  - *by DeRednax*
+  - `/give @s minecraft:netherite_block[minecraft:item_model="bc3:netherite_coin_large",minecraft:item_name="Netherite Bioziz"]`
+- Netherite Clip
+  - *by DeRednax*
+  - `/give @s minecraft:netherite_scraps[minecraft:item_model="bc3:netherite_clip",minecraft:item_name="Netherite Clip"]`
+  - `/give @s minecraft:ancient_debris[minecraft:item_model="bc3:netherite_clip",minecraft:item_name="Netherite Clip"]`
+- Golden Clip
+  - *by DeRednax*
+  - `/give @s minecraft:gold_ingot[minecraft:item_model="bc3:golden_clip",minecraft:item_name="Golden Clip"]`
+- Iron Clip
+  - *by DeRednax*
+  - `/give @s minecraft:iron_ingot[minecraft:item_model="bc3:iron_clip",minecraft:item_name="Iron Clip"]`
+- Copper Clip
+  - *by DeRednax*
+  - `/give @s minecraft:copper_ingot[minecraft:item_model="bc3:copper_clip",minecraft:item_name="Copper Clip"]`
+- Golden Pop
+  - *by DeRednax*
+  - `/give @s minecraft:gold_nugget[minecraft:item_model="bc3:golden_pop",minecraft:item_name="Golden Pop"]`
+- Iron Pop
+  - *by DeRednax*
+  - `/give @s minecraft:iron_nugget[minecraft:item_model="bc3:iron_pop",minecraft:item_name="Iron Pop"]`
+- Copper Pop
+  - *by DeRednax*
+  - `/give @s minecraft:copper_nugget[minecraft:item_model="bc3:copper_pop",minecraft:item_name="Copper Pop"]`
+
+## Useful commands
+- Invisible item frames: `/give @s item_frame[entity_data={id:"minecraft:item_frame",Invisible:1b}]`
