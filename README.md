@@ -5,6 +5,12 @@
 - PVP club poster
   - *by Giwdal, model by DeRednax*
   - `/give @s minecraft:carved_pumpkin[minecraft:item_model="bc3:pvp_club_poster",minecraft:item_name="PVP Club Poster"]`
+- BioCraft 3 Hat
+  - *by DeRednax*
+  - `/give @s minecraft:carved_pumpkin[minecraft:item_model="bc3:biocraft3_hat",minecraft:item_name="BioCraft 3 Hat"]`
+- BioCraft 3 Hat (Golden)
+  - *by DeRednax*
+  - `/give @s minecraft:carved_pumpkin[minecraft:item_model="bc3:biocraft3_hat_golden",minecraft:item_name="BioCraft 3 Hat (Golden)"]`
 
 ## Items
 - Emerald Biotic
